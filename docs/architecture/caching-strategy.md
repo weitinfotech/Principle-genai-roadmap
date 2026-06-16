@@ -31,7 +31,4 @@ If you’re on ASP.NET Core and want very fast local reads plus shared durabilit
 
 ---
 
-## Suggested key strategy
-
-Use versioned logical keys such as:
 
